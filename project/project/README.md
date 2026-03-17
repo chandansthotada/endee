@@ -1,7 +1,7 @@
 # AI PDF Chatbot using Endee
 
 ## Project Overview
-This project is a simple AI chatbot that answers questions from a PDF file using a vector database.
+This project demonstrates a basic Retrieval-Augmented Generation (RAG) workflow using Endee.
 
 ## Features
 - Upload a PDF

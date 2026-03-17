@@ -1,13 +1,29 @@
 # AI PDF Chatbot using Endee
 
-## What this project does
-This app answers questions from a PDF file.
+## Project Overview
+This project is a simple AI chatbot that answers questions from a PDF file using a vector database.
 
-## How it works
-- Converts PDF into vectors
-- Stores data in Endee
-- Answers user questions
+## Features
+- Upload a PDF
+- Ask questions
+- Retrieves relevant content
 
-## How to run
-1. Install requirements
-2. Run app.py
+## How Endee is Used
+Endee is used as a vector database to store and retrieve document data for answering questions.
+
+## Tech Stack
+- Python
+- Streamlit
+- Endee
+
+## How to Run
+1. Install dependencies:
+   pip install -r project/requirements.txt
+
+2. Run the app:
+   streamlit run project/app.py
+
+## Output
+- Upload a PDF
+- Ask a question
+- Get an answer from stored data

@@ -1,2 +1,11 @@
+# Web Application Framework (UI & Frontend)
 streamlit
-openai
+
+# PDF Parsing and Text Extraction
+PyPDF2
+
+# Natural Language Processing (Vector Embeddings)
+sentence-transformers
+
+# Machine Learning Backend (Tensor Operations & Similarity)
+torch

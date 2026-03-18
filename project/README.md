@@ -57,7 +57,7 @@ It is extremely simple to get this project running on your local machine.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/ai-pdf-chatbot.git
+git clone https://github.com/chandansthotada/endee.git
 cd ai-pdf-chatbot
 ```
 
@@ -90,7 +90,7 @@ If you are looking to fork or upload this project to your own GitHub portfolio, 
 4. Run the final push commands provided by GitHub:
    ```bash
    git branch -M main
-   git remote add origin https://github.com/YourUsername/YourRepositoryName.git
+   git remote add origin https://github.com/chandansthotada/endee.git
    git push -u origin main
    ```
 
